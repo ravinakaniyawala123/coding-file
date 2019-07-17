@@ -50,6 +50,7 @@ class ViewController: UIViewController {
         print(diceArray[randomDiceIndex1] + diceArray[randomDiceIndex2] )
         print(" 1st dice \(randomDiceIndex1)")
         print("2nd dice \(randomDiceIndex2)")
+         print("3nd dice \(randomDiceIndex2)")
         
         lbldiceroll.isHidden = false
         
